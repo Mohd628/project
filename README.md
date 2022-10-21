@@ -28,10 +28,14 @@ The reason I chose this project was to learn how to create micro-applications fo
 
 
 
-***qrcode*** * Generating QR codes*
-***Pillow***  *Image formatting support*
-***DearPyGui***  *Cross-platform GUI framework*
-***DearPyGui-Ext*** *Bundled light theme for DearPyGui*
+***qrcode*** 
+Generating QR codes
+***Pillow***  
+Image formatting support
+***DearPyGui***  
+Cross-platform GUI framework
+***DearPyGui-Ext*** 
+Bundled light theme for DearPyGui
 
 ### __vCard Format__
 
@@ -98,10 +102,5 @@ pipenv run pytest
 ### __Acknowledgements__
 
 Thank you to David Malan and his entire team for helping to make Harvard's CS50 accessible to anyone who wants to learn.
-
-#### __Easter Egg__
-
-If you generate an image without entering any information, you'll receive a QR code that points to Rick Astley's "Never Gonna Give You Up".
-
 
 
