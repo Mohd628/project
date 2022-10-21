@@ -28,10 +28,10 @@ The reason I chose this project was to learn how to create micro-applications fo
 
 
 
-***qrcode*** - Generating QR codes
-***Pillow***  - Image formatting support
-***DearPyGui*** - Cross-platform GUI framework
-***DearPyGui-Ext*** - Bundled light theme for DearPyGui
+***qrcode*** * Generating QR codes*
+***Pillow***  *Image formatting support*
+***DearPyGui***  *Cross-platform GUI framework*
+***DearPyGui-Ext*** *Bundled light theme for DearPyGui*
 
 ### __vCard Format__
 
