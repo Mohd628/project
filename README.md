@@ -6,7 +6,7 @@
 
 For my **CS50P** [Final Project](https://cs50.harvard.edu/python/2022/project/), I decided to create a single purpose, cross-platform desktop application with a functional GUI that generates vCards in QR code format.
 
-### __Video Demo__
+### __Video Demo__ https://youtu.be/w8pRy8ue5aw
 
 For my **CS50P** [Final Project](https://cs50.harvard.edu/python/2022/project/), I decided to create a single purpose, cross-platform desktop application with a functional GUI that generates vCards in QR code format.
 ## video Demo: 
